@@ -1,11 +1,11 @@
 # OpenAI_API_Usage_Python
 使用pyqt5批量查询OpenAI API 使用情况
 
-## 注：使用前需安装pyqt5, requests
+## 使用前需安装pyqt5, requests
 ```
 pip install pyqt5 requests
 ```
-
+## 注：受限地区无法访问api.openai.com，请根据您自身情况使用代理或尝试其他办法
 ## 使用方法
 ### 方法一：  
   本地编译运行，在文本框中输入API key，用回车分隔多个key，点击查询  
